@@ -1,6 +1,6 @@
 import { Injectable } from '@angular/core';
 
-import { Tarefa } from './';
+import { Tarefa } from '../shared';
 import { JsonPipe } from '@angular/common';
 
 @Injectable()
